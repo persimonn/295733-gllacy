@@ -1,6 +1,7 @@
 # Личный проект «Глейси»
 
 * Студент: [Agnese Svjatska](https://up.htmlacademy.ru/htmlcss/16/user/295733).
+* Наставник: [Иван Жадаев] (https://htmlacademy.ru/profile/id58078).
 
 ---
 
