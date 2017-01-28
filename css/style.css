@@ -1,0 +1,172 @@
+body {
+	font-size: 14px;
+	line-height: 16px;
+	color: #ffffff;
+	font-weight: bold;
+	font-family: Roboto, sans-serif;
+	background-image: url("../img/main-background-layer-1.jpg");
+}
+
+h1 {
+	font-size: 35px;
+	line-height: 41px;
+}
+
+a {
+	color: #ffffff;
+	text-decoration: none;
+}
+
+
+.main-navigation-btn {
+	font-size: 16px;
+	line-height: 18px;
+}
+
+.submenu-title-name {
+	font-size: 16px;
+	line-height: 18px;
+}
+
+.submenu-item-link {
+	font-size: 16px;
+	line-height: 18px;
+	font-weight: normal;
+}
+
+.user-login-btn, .shopping-cart-btn {
+	font-size: 14px;
+	line-height: 16px;
+}
+
+.contacts-top-time {
+	font-size: 14px;
+	line-height: 16px;
+}
+
+.slider-image-title {
+	font-size: 60px;
+	line-height: 60.35px;
+}
+
+.button-large {
+	font-size: 32px;
+	line-height: 44px;
+}
+
+.button-small {
+	font-size: 18px;
+	line-height: 24px;
+}
+
+.offer-item-title {
+	font-size: 35px;
+	line-height: 41px;
+}
+
+.offer-item-description {
+	font-size: 18px;
+	line-height: 22px;
+}
+
+.product-item-link {
+	font-size: 18px;
+	line-height: 22px;
+}
+
+.brand-description-title {
+	font-size: 24px;
+	line-height: 30px;
+	color: #323232;
+	font-weight: bolder;
+}
+
+.description-item {
+	font-size: 18px;
+	line-height: 22px;
+	color: #323232;
+	font-weight: normal;
+}
+
+.blog-news-description {
+	font-size: 16px;
+	line-height: 22px;
+	color: #323232;
+	font-weight: bolder;
+}
+
+.blog-news-title-link {
+	font-size: 24px;
+	line-height: 30px;
+	color: #323232;
+	text-decoration: underline;
+}
+
+.subscribe-description {
+	font-size: 16px;
+	line-height: 22px;
+	color: #323232;
+	font-weight: normal;
+}
+
+.contacts-address-description, .contacts-phone-description, .contacts-phone-time {
+	font-size: 14px;
+	line-height: 20px;
+	color: #323232;
+	font-weight: normal;
+}
+ 
+.contacts-address-item, .contacts-phone-item  {
+	font-size: 18px;
+	line-height: 24px;
+	color: #323232;
+} 
+
+ .footer-info {
+    font-size: 13px;
+	line-height: 18px;
+	font-weight: normal;
+ }
+ 
+ .footer-info-special {
+    font-size: 13px;
+	line-height: 18px;
+ }
+
+.copyright-info {
+	font-size: 12px;
+	line-height: 18px;
+	font-weight: normal;
+}
+
+.filter-tool-item {
+	font-size: 16px;
+	line-height: 18px;
+	font-weight: bolder;
+}
+
+.offer-pannel-left {
+	background-image: url("../img/raspberry-background.jpg");
+	background-repeat: no-repeat;
+}
+
+.offer-pannel-right {
+	background-image: url("../img/chocolate-background.jpg");
+	background-repeat: no-repeat;
+}
+
+.brand-description-wrapper {
+	background-image: url("../img/waffle-background.jpg");
+	background-repeat: repeat-x;
+}
+
+.blog-news {
+	background-image: url("../img/strawberry-background.jpg");
+	background-repeat: no-repeat;
+}
+
+.subscribe {
+	background-image: url("../img/postal-background.jpg");
+	background-repeat: no-repeat;
+}
+
